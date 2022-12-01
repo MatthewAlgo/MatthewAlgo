@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthewalgo" alt="matthewalgo" /></a> </p>
 
-- 🔭 I’m currently working on [LibreTube](github.com/MatthewAlgo/LibreTube)
+- 🔭 I’m currently working on [FactoryApp](github.com/MatthewAlgo/FactoryApp)
 
 - 🌱 I’m currently learning **Flutter, low level development in C and C++, Web**
 
