@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthewalgo" alt="matthewalgo" /></a> </p>
 
-- 🔭 I’m currently working on [FactoryApp](github.com/MatthewAlgo/FactoryApp)
+- 🔭 I’m currently working on a wide variety of projects that implement Web3, AI, Cloud, Fullstack Development
 
 - 🌱 I’m currently learning **Flutter, low level development in C and C++, Web**
 
-- 👨‍💻 All of my projects are available at [matthewsdevportfolio.pages.dev](matthewsdevportfolio.pages.dev)
+- 👨‍💻 All of my projects are available at [matthewsgalaxy.com/my-projects](matthewsgalaxy.com/my-projects)
 
-- 📝 I regularly write articles on [matthewsgalaxy.pages.dev](matthewsgalaxy.pages.dev)
+- 📝 I regularly write articles on [matthewsgalaxy.com](matthewsgalaxy.com)
 
 - 📫 How to reach me **matthewdy0101@gmail.com**
 
