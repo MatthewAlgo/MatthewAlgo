@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a wide variety of projects that implement Web3, AI, Cloud, Fullstack Development
 
-- 🌱 I’m currently learning **Flutter, low level development in C and C++, Web**
+- 🌱 I’m currently learning **AI, Cloud, Fullstack Development, Web3**
 
 - 👨‍💻 All of my projects are available at [matthewsgalaxy.com/my-projects](matthewsgalaxy.com/my-projects)
 
